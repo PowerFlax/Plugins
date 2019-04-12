@@ -1,0 +1,8 @@
+name: Vanish
+author: PowerFlax
+version: 1.0
+main: fr.powerflax.vanish.Vanish
+commands:
+  vanish:
+    permission: Vanish.use
+    

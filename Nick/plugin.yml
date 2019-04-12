@@ -1,0 +1,7 @@
+main: fr.powerflax.nick.Main
+name: Nick
+Author: powerflax
+version: 1.0
+commands:
+   nick:
+      description: Nick plugin   

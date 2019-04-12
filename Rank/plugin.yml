@@ -1,0 +1,7 @@
+name: Rank
+author: PowerFlax
+version: 1.0
+main: fr.powerflax.rank.bukkit.plugin.RankJavaPlugin
+commands:
+  rank:
+    

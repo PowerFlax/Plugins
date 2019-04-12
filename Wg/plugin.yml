@@ -1,0 +1,8 @@
+name: Wg
+author: PowerFlax
+version: 1.0
+main: fr.powerflax.wg.Wg
+depend: [WorldGuard, WorldEdit]
+commands:
+  claim:
+  
